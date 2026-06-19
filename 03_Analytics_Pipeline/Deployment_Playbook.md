@@ -1,4 +1,4 @@
-## Deployment Playbook (`DEPLOYMENT_PLAYBOOK.md`)
+## Deployment Playbook
 
 # Standard Operating Procedure: Analytics Pipeline Deployment
 
