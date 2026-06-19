@@ -13,3 +13,6 @@ This architecture applies Microsoft's Enterprise Prompting Framework:
 ## Repository Structure
 * `/data` - Contains the raw, unstructured input data and the finalized, formatted `.docx` output.
 * `/src` - The Python automation script utilizing `python-docx` and LLM prompting logic.
+
+## Visual Architecture
+![Incident Pipeline](assets/Incident_report.png)
