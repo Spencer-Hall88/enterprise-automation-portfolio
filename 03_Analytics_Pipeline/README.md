@@ -28,17 +28,5 @@ The cleaned dataset is exported as a structured CSV. A dual-axis analytical mode
 **Business Intelligence Dashboard: Ticket Volume vs. SLA Compliance**
 ![Analytics Dashboard](assets/analytics_dashboard.png)
 
-## Repository Structure
 
-```text
-03_Analytics_Pipeline/
-├── assets/
-│   └── analytics_dashboard.png    # Dual-axis BI visualization
-├── sql/
-│   └── kpi_metrics.sql            # Raw SQL logic for backend aggregation
-├── src/
-│   ├── 01_generate_data.py        # Python script to initialize database
-│   └── 02_etl_process.py          # Python script executing Pandas ETL
-├── DEPLOYMENT_PLAYBOOK.md         # Standard Operating Procedure for execution
-└── README.md                      # Project documentation
 
