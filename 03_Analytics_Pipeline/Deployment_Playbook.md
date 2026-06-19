@@ -1,6 +1,5 @@
 ## Deployment Playbook (`DEPLOYMENT_PLAYBOOK.md`)
 
-```markdown
 # Standard Operating Procedure: Analytics Pipeline Deployment
 
 ## Document Purpose
