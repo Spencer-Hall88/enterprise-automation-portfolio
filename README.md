@@ -52,4 +52,12 @@ Architecture: Leveraged an AI-assisted development environment to generate boile
 
 Business Value: Demonstrates "speed-to-value" development. Proves architectural understanding of how low-code frontends (like Power Apps) securely bind to relational databases (like Dataverse).
 
-Prepared for technical review and interview discussion.
+**Project 05: Low-Code IT Support Triage App (Power Platform Alternative)**
+
+Objective: Build a centralized frontend interface connected to a relational database to eliminate manual "swivel-chair" data entry processes.
+
+Tech Stack: Retool (Low-Code UI), PostgreSQL, SQL, Event-Driven Automation.
+
+Architecture: Provisioned a PostgreSQL backend to act as the relational data layer (mirroring Microsoft Dataverse). Developed a drag-and-drop frontend (mirroring Power Apps) with actionable UI components. Wired SQL-based event handlers to custom buttons to automate record updates and UI refreshes (mirroring Power Automate).
+
+Business Value: Demonstrates the ability to act as a "process detective"—identifying workflow inefficiencies and rapidly deploying low-code operational dashboards. Proves deep architectural understanding of the complete Microsoft Power Platform ecosystem using industry-standard alternatives.
