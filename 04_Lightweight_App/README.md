@@ -25,7 +25,7 @@ While an enterprise might default to Microsoft licensing, this application achie
 ## Repository Structure
 
 ```text
-04_Lightweight_Asset_Tracker/
+04_Lightweight_App/
 ├── assets/
 │   └── app_interface.png          # Screenshot of the app interface
 |   └── active_issues.png          # Screenshot of the active application
